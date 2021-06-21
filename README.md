@@ -2,31 +2,39 @@
 
 <h3 align="center">
 Next Level Week 6 - Together by Rocketseat 🚀
-</h3><br>
+</h3>&nbsp; 
 
-<p align="center">“A beleza de um movimento não reside em sua aparência, mas no pensamento por trás dele” - Aaron Nimzowitsch</blockquote><br>
+<p align="center">“A beleza de um movimento não reside em sua aparência, mas no pensamento por trás dele” - Aaron Nimzowitsch</blockquote>&nbsp; 
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasilvadev/nlw06-together?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
+
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+
   </a>
 
   <a href="https://www.linkedin.com/in/douglasilva/">
+
     <img alt="Changed by Douglas Silva" src="https://img.shields.io/badge/changed%20by-Douglas_Silva-%2304D361">
+
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
   <a href="https://github.com/douglasilvadev/nlw06-together/stargazers">
+
     <img alt="Stargazers" src="https://img.shields.io/github/stars/douglasilvadev/nlw06-together?style=social">
+
   </a>
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-o-app">Sobre o app</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  
+  <a href="#rocket-sobre-o-app">Sobre o app</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; 
+  <a href="#instalação-do-app">Instalação do app</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; 
+  <a href="#memo-licença">Licença</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; 
   <a href="#trophy-créditos">Créditos</a>
 </p>
 
@@ -40,6 +48,32 @@ Aplicação feita para perguntas e respostas (Q&A) do evento Next Level Week - T
 ### Template da aplicação
 
 O template utilizado está disponível na seguinte url: **[Acessar Template](https://github.com/rocketseat-education/nlw-06-reactjs)**
+
+## :computer: Instalação do app
+
+### Requisitos
+
+Antes de instalar, você precisa ter em sua máquina o [Node.js](https://nodejs.org/en/download/) e o [Yarn](https://yarnpkg.com/) para rodar o app.
+
+** Pelo terminal, clone e entre no projeto**
+
+```bash
+$ git clone https://github.com/douglasilvadev/nlw06-together.git && cd nlw06-together
+```
+
+**Agora execute os scripts**
+
+```bash
+# Instalação das dependências
+$ yarn
+
+# Configure seu .env.local seguindo o modelo .env.example
+
+# Acessar pelo browser
+$ yarn start
+```
+
+Pronto! Seu app vai estar acessível pelo navegador no endereço [localhost:3000](http://localhost:3000)
 
 ## :memo: Licença
 
