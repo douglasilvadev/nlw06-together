@@ -4,29 +4,25 @@
 Next Level Week 6 - Together by Rocketseat 🚀
 </h3>&nbsp; 
 
-<p align="center">“A beleza de um movimento não reside em sua aparência, mas no pensamento por trás dele” - Aaron Nimzowitsch</blockquote>&nbsp; 
+<p align="center">“A beleza de um movimento não reside em sua aparência, mas no pensamento por trás dele” - Aaron Nimzowitsch</blockquote>&nbsp;
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasilvadev/nlw06-together?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
-
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
-
   </a>
 
   <a href="https://www.linkedin.com/in/douglasilva/">
-
     <img alt="Changed by Douglas Silva" src="https://img.shields.io/badge/changed%20by-Douglas_Silva-%2304D361">
-
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+  <a href="https://github.com/douglasilvadev/nlw06-together/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+  </a>
 
   <a href="https://github.com/douglasilvadev/nlw06-together/stargazers">
-
     <img alt="Stargazers" src="https://img.shields.io/github/stars/douglasilvadev/nlw06-together?style=social">
-
   </a>
 </p>
 
