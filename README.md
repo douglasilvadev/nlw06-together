@@ -26,8 +26,7 @@ Next Level Week 6 - Together by Rocketseat 🚀
   </a>
 </p>
 
-<p align="center">
-  
+<p align="center">  
   <a href="#rocket-sobre-o-app">Sobre o app</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; 
   <a href="#instalação-do-app">Instalação do app</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; 
   <a href="#memo-licença">Licença</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; 
