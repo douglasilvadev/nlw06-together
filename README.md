@@ -1,4 +1,4 @@
-<a href="https://ibb.co/0Qhg7TZ"><img src="https://i.ibb.co/vDZ7Fpm/Letmeask-cover.png" alt="Letmeask-cover" border="0" /></a>
+<center><a href="https://ibb.co/0Qhg7TZ"><img src="https://i.ibb.co/vDZ7Fpm/Letmeask-cover.png" alt="Letmeask-cover" border="0" /></a></center>
 
 <h3 align="center">
 Next Level Week 6 - Together pela Rocketseat 🚀
@@ -32,14 +32,10 @@ Next Level Week 6 - Together pela Rocketseat 🚀
 
 ## :rocket: Sobre o app
 
-Aplicação feita para perguntas e respostas (Q&A) do evento Next Level Week - Together pela Rocketseat
+Aplicação feita para perguntas e respostas (Q&A) do evento Next Level Week - Together pela Rocketseat. Projeto ainda em construção! 🚧
 
-<a href="https://ibb.co/12cZ0t0"><img src="https://i.ibb.co/ggYyrLr/Letmeask-Login.png" alt="Letmeask-Login" border="0" /></a>
-<a href="https://ibb.co/t42pFzY"><img src="https://i.ibb.co/rmp2N35/Letmeask-Room.png" alt="Letmeask-Room" border="0" /></a>
-
-### Under Construction 🚧
-
-Projeto em construção
+<center><a href="https://ibb.co/12cZ0t0"><img src="https://i.ibb.co/ggYyrLr/Letmeask-Login.png" alt="Letmeask-Login" border="0" /></a>
+<a href="https://ibb.co/t42pFzY"><img src="https://i.ibb.co/rmp2N35/Letmeask-Room.png" alt="Letmeask-Room" border="0" /></a></center>
 
 ### Template da aplicação
 
@@ -47,7 +43,7 @@ O template utilizado está disponível na seguinte url: **[Acessar Template](htt
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](License.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
