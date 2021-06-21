@@ -27,9 +27,9 @@ Next Level Week 6 - Together by Rocketseat 🚀
 </p>
 
 <p align="center">  
-  <a href="#rocket-sobre-o-app">Sobre o app</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; 
-  <a href="#instalação-do-app">Instalação do app</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; 
-  <a href="#memo-licença">Licença</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; 
+  <a href="#rocket-sobre-o-app">Sobre o app</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp;
+  <a href="#computer-instalação-do-app">Instalação do app</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp;
+  <a href="#memo-licença">Licença</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp;
   <a href="#trophy-créditos">Créditos</a>
 </p>
 
@@ -50,7 +50,7 @@ O template utilizado está disponível na seguinte url: **[Acessar Template](htt
 
 Antes de instalar, você precisa ter em sua máquina o [Node.js](https://nodejs.org/en/download/) e o [Yarn](https://yarnpkg.com/) para rodar o app.
 
-** Pelo terminal, clone e entre no projeto**
+**Pelo terminal, clone e entre no projeto**
 
 ```bash
 $ git clone https://github.com/douglasilvadev/nlw06-together.git && cd nlw06-together
