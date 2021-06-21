@@ -1,10 +1,10 @@
 <p align="center"><a href="https://ibb.co/0Qhg7TZ"><img src="https://i.ibb.co/vDZ7Fpm/Letmeask-cover.png" alt="Letmeask-cover" border="0" /></a></p>
 
 <h3 align="center">
-Next Level Week 6 - Together pela Rocketseat 🚀
+Next Level Week 6 - Together by Rocketseat 🚀
 </h3><br>
 
-<p align="center">“Um olho sobre o flanco e a mente no centro é o mais profundo significado do jogo posicional.” - Aaron Nimzowitsch</blockquote><br>
+<p align="center">“A beleza de um movimento não reside em sua aparência, mas no pensamento por trás dele” - Aaron Nimzowitsch</blockquote><br>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasilvadev/nlw06-together?color=%2304D361">
@@ -32,7 +32,7 @@ Next Level Week 6 - Together pela Rocketseat 🚀
 
 ## :rocket: Sobre o app
 
-Aplicação feita para perguntas e respostas (Q&A) do evento Next Level Week - Together pela Rocketseat. Projeto ainda em construção! 🚧
+Aplicação feita para perguntas e respostas (Q&A) do evento Next Level Week - Together da Rocketseat. Projeto ainda em construção! 🚧
 
 <p align="center"><a href="https://ibb.co/12cZ0t0"><img src="https://i.ibb.co/ggYyrLr/Letmeask-Login.png" alt="Letmeask-Login" border="0" /></a>
 <a href="https://ibb.co/t42pFzY"><img src="https://i.ibb.co/rmp2N35/Letmeask-Room.png" alt="Letmeask-Room" border="0" /></a></p>
