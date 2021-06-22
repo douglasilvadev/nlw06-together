@@ -95,15 +95,15 @@
   height: 50px;
   border-radius: 8px;
   font-weight: 500;
-  background: #ea4335;
-  color: #FFF;
+  background: #f8f8f8;
+  color: #a8a8b3;
 
   display: flex;
   justify-content: center;
   align-items: center;
 
   cursor: pointer;
-  border: 0;
+  border: 1px solid #a8a8b3;
 
   transition: filter 0.2s;
 
@@ -112,6 +112,7 @@
   }
 
   &:hover {
+    border: 1.7px solid #835afd;
     filter: brightness(0.9)
   }
 }
