@@ -48,9 +48,9 @@ O template utilizado está disponível na seguinte url: **[Acessar Template](htt
 
 ### Requisitos
 
-Antes de instalar, primeiro você precisará ter em sua máquina o [Node.js](https://nodejs.org/en/download/) e o [Yarn](https://yarnpkg.com/) instalados para rodar este app.
+Antes de prosseguir, tenha em sua máquina o [Node.js](https://nodejs.org/en/download/) e o [Yarn](https://yarnpkg.com/) instalados para rodar este app.
 
-**Agora pelo terminal, clone o projeto e entre em seu diretório**
+**Abra o terminal, clone o projeto e entre em seu diretório**
 
 ```bash
 $ git clone https://github.com/douglasilvadev/nlw06-together.git && cd nlw06-together
