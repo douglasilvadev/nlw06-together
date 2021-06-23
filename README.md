@@ -50,6 +50,7 @@ O template utilizado está disponível na seguinte url: **[Acessar Template](htt
 
 Antes de prosseguir, tenha em sua máquina o [Node.js](https://nodejs.org/en/download/) e o [Yarn](https://yarnpkg.com/) instalados para rodar este app.
 
+
 **Abra o terminal, clone o projeto e entre em seu diretório**
 
 ```bash
