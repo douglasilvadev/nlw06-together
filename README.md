@@ -48,23 +48,26 @@ O template utilizado está disponível na seguinte url: **[Acessar Template](htt
 
 ### Requisitos
 
-Antes de instalar, você precisa ter em sua máquina o [Node.js](https://nodejs.org/en/download/) e o [Yarn](https://yarnpkg.com/) para rodar o app.
+Antes de instalar, primeiro você precisará ter em sua máquina o [Node.js](https://nodejs.org/en/download/) e o [Yarn](https://yarnpkg.com/) instalados para rodar este app.
 
-**Pelo terminal, clone e entre no projeto**
+**Agora pelo terminal, clone o projeto e entre em seu diretório**
 
 ```bash
 $ git clone https://github.com/douglasilvadev/nlw06-together.git && cd nlw06-together
 ```
 
-**Agora execute os scripts**
+**Instale as dependências**
 
 ```bash
-# Instalação das dependências
 $ yarn
+```
 
-# Configure seu .env.local seguindo o modelo .env.example
+:exclamation: Configure seu .env.local seguindo o modelo .env.example
 
-# Acessar pelo browser
+
+**Finalmente execute o comando**
+
+```bash
 $ yarn start
 ```
 
